@@ -11,6 +11,18 @@
       ],
       "install_url": "https://github.com/mincoding-1/yt_dlp_downloader.git",
       "status": "published"
+    },
+    {
+      "name": "test_runner",
+      "version": "1.0.0",
+      "description": "",
+      "author": "Hanis User",
+      "category": "personal",
+      "capabilities": [
+        "idempotent"
+      ],
+      "install_url": "https://github.com/theidleman90/test_runner.git",
+      "status": "published"
     }
   ]
 }
