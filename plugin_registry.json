@@ -21,7 +21,7 @@
       "capabilities": [
         "idempotent"
       ],
-      "install_url": "https://github.com/theidleman90/test_runner.git",
+      "install_url": "https://github.com/mincoding-1/test_runner.git",
       "status": "published"
     }
   ]
