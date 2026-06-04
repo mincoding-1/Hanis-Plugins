@@ -2,8 +2,8 @@
   "plugins": [
     {
       "name": "yt_dlp_downloader",
-      "version": "1.2.2",
-      "description": "yt-dlp downloader with fixed collection namespaces, user presets, archive-aware dry run, scheduled download support, progress, cancel, result summaries, and downloader-sized sandbox limits.",
+      "version": "1.3.0",
+      "description": "yt-dlp downloader with semantic collection metadata, Plex-friendly filename templates, archive-aware dry run, scheduled playlist partial results, skip reasons, progress, cancel, and downloader-sized sandbox limits.",
       "author": "Hanis User",
       "category": "personal",
       "capabilities": [
